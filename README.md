@@ -29,7 +29,7 @@ Evan Martua
 
 References:
 https://github.com/louisowen6/NLP_bahasa_resources <br>
-https://github.com/fajri91/InSet
-https://github.com/abhimantramb/elang/blob/master/word2vec/utils/swear-words.txt
-https://devtrik.com/python/steeming-bahasa-indonesia-python-sastrawi/
-https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf
+https://github.com/fajri91/InSet<br>
+https://github.com/abhimantramb/elang/blob/master/word2vec/utils/swear-words.txt <br>
+https://devtrik.com/python/steeming-bahasa-indonesia-python-sastrawi/ <br>
+https://towardsdatascience.com/extracting-twitter-data-pre-processing-and-sentiment-analysis-using-python-3-0-7192bd8b47cf <br>
