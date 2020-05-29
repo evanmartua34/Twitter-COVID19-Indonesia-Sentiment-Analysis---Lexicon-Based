@@ -1,7 +1,9 @@
 # Twitter-COVID19-Indonesia-Sentiment-Analysis---Lexicon-Based
 LEXICON BASED Twitter Bahasa Indonesia Sentiment Analysis
 ============================================================
-This works is an improvement from various sources that is used to explore, generate dataset, and analysis
+This works is an improvement from various sources that is used to explore, generate dataset, and analysis.
+
+Lexicon based sentiment analysis has some flaws such as it only takes the sentiment of each word without really put it on the context and the sentiment score produced is really dependent on the word weighting in the lexicon itself. But for doing analysis from scratch where we dont have the pre labelled data, it really expensive and complicated to do sentiment labelling for not specilized person. Therefore lexicon method come into handy for such scenario in doing sentiment analysis. Put in mind that this methods is minimal usage for learning.
 
 How to use:
 1. Data Scrapping and Data set Generation:
